@@ -30,15 +30,19 @@ a {
 .one {
     background-color:#1F2937;
     display:flex;
-    justify-content:space-around;
+    justify-content:center;
     align-items:center;
-    
 }
+
 .awesome {
     max-width:450px;
     margin-left:-75px;
     margin-top:50px;
     margin-bottom:170px;
+    margin-right: 500px;
+}
+.placeholder {
+    margin-left:-300px;
 }
 .main {
     font-size:48px;
